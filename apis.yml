@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://raider.io/api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/raider-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/raider-domain-security.yml
   - type: Website
     url: https://raider.io/api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://raider.io/rss.xml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
